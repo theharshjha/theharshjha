@@ -1,4 +1,13 @@
 ### Hi there 👋
+# MORE PROFILES
+[LinkedIn](https://www.linkedin.com/in/imtheonly1/)
+
+[CodeForces](https://codeforces.com/profile/imtheonly1)
+
+[CodeChef](https://www.codechef.com/users/imtheonly1)
+
+[LeeTCode](https://leetcode.com/imtheonly1/)
+
 
 <!--
 **theharshjha/theharshjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
